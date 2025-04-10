@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+
+
+
+@theme {
+
+  --font-sans: 'Inter', sans-serif;
+
+  
+  --color-primary: #09090a;
+  --color-secondary: #ffffff;
+  --color-text: #9d9d9d;
+
+
+}
+
+
+li,
+button {
+  cursor: pointer;
+}
+
+
+
+
+
